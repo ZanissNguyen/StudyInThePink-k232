@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "ostream": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "memory": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "limits": "cpp",
+        "type_traits": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "iomanip": "cpp"
+    }
+}
